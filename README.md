@@ -68,5 +68,5 @@ Select the ‘Command Prompt’ selection
 
 Restart VS Code and try running the command again in the terminal
 
-### Hardhat Guide
+### Install Hardhat
 [Hardhat Guide here](https://hardhat.org/getting-started/)
