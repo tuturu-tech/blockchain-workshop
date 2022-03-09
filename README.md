@@ -8,5 +8,8 @@ Open your MetaMask browser extension (look for the fox symbol in your extensions
 Once your account is setup, change the Ethereum network that MetaMask is connected to, to the Kovan Testnet by selecting the dropdown at the top, and changing it to ‘Kovan Test Network’.
 [MetaMask download](https://metamask.io/download/)
 
+### Fund your wallet with test ETH
+[Chainlink kovan faucet](https://faucets.chain.link/). Make sure youre' connected to the Kovan Testnet on MetaMask.
+
 ### Check out Remix
 [REMIX](https://remix.ethereum.org/)
