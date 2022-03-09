@@ -1,7 +1,7 @@
 # blockchain-workshop
 
 ## Software Installation
-Please complete the following steps to install the required software for the Developer Bootcamp. You can skip any steps for software you already have installed if there is no stated minimum version, otherwise please ensure your version is equal to or greater than the stated minimum version of the software. If your version is less than the stated minimum version, please upgrade to the latest version as per the instructions below.
+Please complete the following steps to install the required software. You can skip any steps for software you already have installed if there is no stated minimum version, otherwise please ensure your version is equal to or greater than the stated minimum version of the software. If your version is less than the stated minimum version, please upgrade to the latest version as per the instructions below.
 
 ### METAMASK
 Download and install MetaMask, a browser extension that you’ll use as a wallet for interacting with your smart contracts and the Ethereum network. MetaMask requires either Google Chrome or Brave browser, and also has limited support for Firefox and Opera. We recommend Chrome or Brave. 
@@ -44,7 +44,7 @@ To test git once it’s installed, open a new Terminal/Windows Command Prompt (o
 git --version
 ```
 ### VISUAL STUDIO CODE
-You’ll need a decent text/file editor for days 2 and 3 of the bootcamp. We recommend Visual Studio Code, one of the most popular free, open source editors for smart contract development. Using Visual Studio Code will make it easier when you're following along with the exercise screenshots, and the integrated terminal makes it easier to switch between editing files, and running commands. If you have your own editor that you’re comfortable with, you can skip this step.
+Using Visual Studio Code will make it easier when you're following along with the exercises, and the integrated terminal makes it easier to switch between editing files, and running commands. If you have your own editor that you’re comfortable with, you can skip this step.
 
 Goto https://code.visualstudio.com/, download and install the latest version of Visual Studio Code for your operating system
 
